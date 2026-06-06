@@ -11,7 +11,8 @@
   "plugins": [
     {
       "name": "apply-within",
-      "source": ".",
+      "displayName": "Apply Within",
+      "source": "./apply-within",
       "description": "Job-search coach based on Laszlo Bock's playbook: resume, cover letter, networking, interviews, applying, and negotiation."
     }
   ]
