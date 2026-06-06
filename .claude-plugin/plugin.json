@@ -1,0 +1,8 @@
+{
+  "name": "apply-within",
+  "description": "Job-search coach based on Laszlo Bock's 'Apply Within' playbook: the X/Y/Z resume formula, cover letters, networking for referrals, interview prep, applying, and negotiation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tomes"
+  }
+}
